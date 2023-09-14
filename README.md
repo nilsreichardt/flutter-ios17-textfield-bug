@@ -1,16 +1,4 @@
 # flutter_textfield_ios17
 
-A new Flutter project.
+https://github.com/nilsreichardt/flutter-ios17-textfield-bug/assets/24459435/80b9981c-6087-49a3-bd88-a7db4e00795e
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
